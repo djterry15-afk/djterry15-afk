@@ -1,5 +1,7 @@
 # Daniel Terry
 
+![Profile Views](https://komarev.com/ghpvc/?username=djterry15-afk&color=blue)
+
 Financial Data Developer | Macroeconomic Research Systems | Python
 
 I build automated financial data pipelines and macroeconomic analytics tools for market research and investment analysis.
