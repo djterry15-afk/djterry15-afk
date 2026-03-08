@@ -75,9 +75,9 @@ www.linkedin.com/in/daniel-terry-42608380
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=djterry15-afk&show_icons=true&theme=dark)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=djterry15-afk&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djterry15-afk&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djterry15-afk&layout=compact&theme=tokyonight)
 
 
 
