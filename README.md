@@ -10,21 +10,21 @@ Currently focused on:
 - Quantitative research tools
 - AI-assisted market analysis
 
-## Projects
+## Featured Project
 
 ### Macro Regime Engine
-Automated macroeconomic signal pipeline that ingests FRED data, computes signals, classifies economic regimes, and generates charts.
+
+Automated macroeconomic signal pipeline that:
+
+- Ingests FRED macroeconomic data
+- Computes financial signals
+- Classifies economic regimes
+- Generates research charts and reports
+
 ![Macro Regime Timeline](https://raw.githubusercontent.com/djterry15-afk/macro-regime-engine/main/reports/assets/regime_timeline_chart.png)
 
-Repo:
+Repository:
 https://github.com/djterry15-afk/macro-regime-engine
-
-Features:
-- FRED data ingestion
-- Yield curve analysis
-- Credit spread z-scores
-- Regime classification
-- Automated research reports
 
 ## Skills
 
@@ -35,10 +35,51 @@ Macroeconomic Modeling
 Data Visualization  
 Git / GitHub  
 
+## Tech Stack
+
+Languages
+- Python
+
+Data & Analysis
+- Pandas
+- NumPy
+- Time Series Analysis
+
+Data Sources
+- FRED API
+- Macroeconomic datasets
+
+Visualization
+- Matplotlib
+
+Tools
+- Git
+- GitHub
+- VS Code
+
 ## Currently Building
 
-- Macro Factor Backtester
-- AI-assisted macro analysis tools
+Macro Factor Backtester  
+Quantitative research engine for testing macroeconomic indicators against asset returns.
+
+AI Macro Research Tools  
+Exploring machine learning and AI-assisted macroeconomic pattern discovery.
+
+## Contact
+
+GitHub  
+https://github.com/djterry15-afk
+
+LinkedIn  
+www.linkedin.com/in/daniel-terry-42608380
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djterry15-afk&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djterry15-afk&layout=compact&theme=dark)
+
+
 <!--
 **djterry15-afk/djterry15-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
