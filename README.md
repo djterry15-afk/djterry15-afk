@@ -1,13 +1,14 @@
 # Daniel Terry
 
-Macro-focused developer building financial data systems, analytics tools, and research pipelines.
+Financial Data Developer | Macroeconomic Research Systems | Python
 
-## Current Focus
+I build automated financial data pipelines and macroeconomic analytics tools for market research and investment analysis.
 
-- Macroeconomic analysis
+Currently focused on:
+- Macroeconomic signal models
 - Financial data engineering
-- Quantitative research tooling
-- AI-assisted financial analysis
+- Quantitative research tools
+- AI-assisted market analysis
 
 ## Projects
 
